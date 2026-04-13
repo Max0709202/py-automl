@@ -1,7 +1,5 @@
 # automl-gs
 
-![console gif](docs/console-demo.gif)
-
 Give an input CSV file and a target field you want to predict to automl-gs, and get a trained high-performing machine learning or deep learning model plus native Python code pipelines allowing you to integrate that model into any prediction workflow. No black box: you can see *exactly* how the data is processed, how the model is constructed, and you can make tweaks as necessary.
 
 ![demo output](docs/demo-output.png)
@@ -159,12 +157,6 @@ Feature development will continue on automl-gs as long as there is interest in t
 * Support for generating model code for R/Julia
 * Tool for generating a Flask/Starlette REST API from a trained model script
 * Allow passing an explicit, pre-defined test set CSV.
-
-## Maintainer/Creator
-
-Max Woolf ([@minimaxir](http://minimaxir.com))
-
-*Max's open-source projects are supported by his [Patreon](https://www.patreon.com/minimaxir). If you found this project helpful, any monetary contributions to the Patreon are appreciated and will be put to good creative use.*
 
 ## License
 
